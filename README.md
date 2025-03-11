@@ -86,7 +86,7 @@ The dataset outlined above was used for all of our experiments.
 
 # Overview of Results  
 
-Our experiments show that more sophisticated models with contextual embeddings significantly outperform traditional methods in Pokémon type classification. One-hot encoding and TF-IDF provide reasonable baselines, but pre-trained embeddings like GloVe underperform due to limited domain specificity. Fine-tuned BERT models demonstrate the strongest performance for both single-type and dual-type classification, with oversampling dramatically improving multi-label performance. Below is a summary of key results:  
+Our experiments show that more sophisticated models with contextual embeddings significantly outperform traditional methods in Pokémon type classification. One-hot encoding and TF-IDF provide reasonable baselines, but pre-trained embeddings like GloVe underperform due to limited domain specificity. Fine-tuned BERT models demonstrate the strongest performance for both single-type and dual-type classification, with oversampling dramatically improving multi-label performance. Below is a summary of key results:
 
 ## **Single-Type Classification Results**  
 
